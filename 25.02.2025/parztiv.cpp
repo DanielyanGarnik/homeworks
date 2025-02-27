@@ -9,7 +9,7 @@ void parz(){
 	if(a == 1){
 	std::cout<<"tiv@ parz e";'\n';	
 	}else{
-		std::cout<<"tiv@ hasarak e";'\n';
+		std::cout<<" hasarak e tiv ";'\n';
 	}
 }
 int main(){
