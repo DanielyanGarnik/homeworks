@@ -14,7 +14,6 @@ void mecpoqr(){
 }
 
 int main(){
-
 	mecpoqr();
 return(0);
 }
