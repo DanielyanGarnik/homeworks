@@ -1,13 +1,13 @@
 #include<iostream>
 
 void sum(){
-	int arajin = 0;
-	int erkrord = 0;
-	std::cout<<"arajin";'\n';
+	int a = 0;
+	int b = 0;
+	std::cout<<"a";'\n';
 	std::cin>>arajin;
-	std::cout<<"erkrord";'\n';
+	std::cout<<"b";'\n';
 	std::cin>>erkrord;
-	std::cout<<"patasxan"<<arajin + erkrord;'\n';
+	std::cout<<"patasxan"<<a + b;'\n';
 }
 int main(){
 	sum();
