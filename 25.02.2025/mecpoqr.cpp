@@ -8,7 +8,7 @@ void mecpoqr(){
 	std::cin>>b;
 	if(a > b){
 		std::cout<<a;'\n';
-	}else{
+	} else {
 		std::cout<<b;'\n';
 	}
 }
